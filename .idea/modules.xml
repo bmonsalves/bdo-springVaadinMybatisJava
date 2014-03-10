@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bdo-springVaadinMybatisJava.iml" filepath="$PROJECT_DIR$/bdo-springVaadinMybatisJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prueba-commons/prueba-commons.iml" filepath="$PROJECT_DIR$/prueba-commons/prueba-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prueba-object/prueba-object.iml" filepath="$PROJECT_DIR$/prueba-object/prueba-object.iml" />
     </modules>
   </component>
 </project>

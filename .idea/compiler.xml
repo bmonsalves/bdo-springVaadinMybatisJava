@@ -22,7 +22,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="bdo-springVaadinMybatisJava" />
+        <module name="prueba-commons" />
+        <module name="prueba-object" />
       </profile>
     </annotationProcessing>
   </component>

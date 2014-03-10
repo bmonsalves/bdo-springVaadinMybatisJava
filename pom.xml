@@ -3,9 +3,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>cl.backapp.prueba</groupId>
   <artifactId>bdo-springVaadinMybatisJava</artifactId>
-  <packaging>war</packaging>
+  <packaging>pom</packaging>
   <version>1</version>
-  <name>bdo-springVaadinMybatisJava Maven Webapp</name>
+    <modules>
+        <module>prueba-object</module>
+        <module>prueba-commons</module>
+    </modules>
+    <name>bdo-springVaadinMybatisJava Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
